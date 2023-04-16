@@ -3,8 +3,8 @@ const images = [
   { url: 'https://picsum.photos/200' },
   { url: 'https://picsum.photos/300' },
   { url: 'https://picsum.photos/400' },
-  { url: 'https://picsum.photos/500' },
-  { url: 'https://picsum.photos/600' }
+  // { url: 'https://picsum.photos/500' },
+  // { url: 'https://picsum.photos/600' }
 ];
 
 const outputDiv = document.getElementById('output');
