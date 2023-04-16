@@ -1,6 +1,6 @@
 //your JS code here. If required.
 const images = [
-  { url: 'https://picsum.photos/200' },
+  { url: 'https://picsum.photos/id/237/200/300' },
   { url: 'https://picsum.photos/300' },
   { url: 'https://picsum.photos/400' },
   // { url: 'https://picsum.photos/500' },
