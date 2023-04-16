@@ -23,7 +23,7 @@ function downloadImages() {
       outputDiv.appendChild(image);
     });
   }).catch(error => {
-    // At least one image failed to download
+    // At least one image failed to download..
     console.error(error);
   });
 }
